@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+div{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    height:500px;
+    width: 500px;
+}
+img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+}
